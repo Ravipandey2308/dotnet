@@ -1,0 +1,14 @@
+C:\Users\ravip\OneDrive\Desktop\dotnet\PrivateArtifactDemo\bin\Debug\net8.0\PrivateArtifactDemo.exe
+C:\Users\ravip\OneDrive\Desktop\dotnet\PrivateArtifactDemo\bin\Debug\net8.0\PrivateArtifactDemo.deps.json
+C:\Users\ravip\OneDrive\Desktop\dotnet\PrivateArtifactDemo\bin\Debug\net8.0\PrivateArtifactDemo.runtimeconfig.json
+C:\Users\ravip\OneDrive\Desktop\dotnet\PrivateArtifactDemo\bin\Debug\net8.0\PrivateArtifactDemo.dll
+C:\Users\ravip\OneDrive\Desktop\dotnet\PrivateArtifactDemo\bin\Debug\net8.0\PrivateArtifactDemo.pdb
+C:\Users\ravip\OneDrive\Desktop\dotnet\PrivateArtifactDemo\obj\Debug\net8.0\PrivateArtifactDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravip\OneDrive\Desktop\dotnet\PrivateArtifactDemo\obj\Debug\net8.0\PrivateArtifactDemo.AssemblyInfoInputs.cache
+C:\Users\ravip\OneDrive\Desktop\dotnet\PrivateArtifactDemo\obj\Debug\net8.0\PrivateArtifactDemo.AssemblyInfo.cs
+C:\Users\ravip\OneDrive\Desktop\dotnet\PrivateArtifactDemo\obj\Debug\net8.0\PrivateArtifactDemo.csproj.CoreCompileInputs.cache
+C:\Users\ravip\OneDrive\Desktop\dotnet\PrivateArtifactDemo\obj\Debug\net8.0\PrivateArtifactDemo.dll
+C:\Users\ravip\OneDrive\Desktop\dotnet\PrivateArtifactDemo\obj\Debug\net8.0\refint\PrivateArtifactDemo.dll
+C:\Users\ravip\OneDrive\Desktop\dotnet\PrivateArtifactDemo\obj\Debug\net8.0\PrivateArtifactDemo.pdb
+C:\Users\ravip\OneDrive\Desktop\dotnet\PrivateArtifactDemo\obj\Debug\net8.0\PrivateArtifactDemo.genruntimeconfig.cache
+C:\Users\ravip\OneDrive\Desktop\dotnet\PrivateArtifactDemo\obj\Debug\net8.0\ref\PrivateArtifactDemo.dll
